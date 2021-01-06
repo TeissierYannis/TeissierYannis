@@ -4,7 +4,7 @@
 
 ## Top Repos
 
-[![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN)](https://github.com/anuraghazra/github-readme-stats)
+[![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
