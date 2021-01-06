@@ -11,6 +11,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
   
-[![Yannis stats](https://github-readme-stats.vercel.app/api?username=TeissierYannis)](https://github.com/anuraghazra/github-readme-stats)
+[![Yannis stats](https://github-readme-stats.vercel.app/api?username=TeissierYannis&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
