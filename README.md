@@ -7,8 +7,8 @@
 <div align="center">
   
   [![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-  [![FCSC 2020](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=FCSC-2020&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
   [![PXC](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=PXC_Scheduler&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![FCSC 2020](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=FCSC-2020&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -25,5 +25,8 @@
 
 ## Programming Stats
 
-[![yannis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeissierYannis)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
   
+  [![yannis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeissierYannis)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
