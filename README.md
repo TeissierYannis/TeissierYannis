@@ -1,11 +1,10 @@
 [![Website](https://img.shields.io/website?label=teissieryannis.com&style=for-the-badge&logo=Tumblr&url=https%3A%2F%2Fteissieryannis.com)](https://teissieryannis.com)
 
 <br />
-<br />
 
 ## Top Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN)](https://github.com/anuraghazra/github-readme-stats)
+[![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
