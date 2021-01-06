@@ -4,8 +4,12 @@
 
 ## Top Repos
 
-[![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![FCSC 2020](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=FCSC-2020&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  [![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![FCSC 2020](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=FCSC-2020&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br />
 <br />
@@ -13,9 +17,14 @@
   <summary>:zap: Github Stats</summary>
   <br />
   
-  <center>
-  
 [![Yannis stats](https://github-readme-stats.vercel.app/api?username=TeissierYannis&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-  </center>
+</details>
+
+<details>
+  <summary>:zap: Programming Stats</summary>
+  <br />
+  
+  [![yannis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeissierYannis)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
