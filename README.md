@@ -5,7 +5,7 @@
 
 ## Top Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
