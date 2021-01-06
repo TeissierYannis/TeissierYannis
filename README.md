@@ -10,7 +10,11 @@
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
+  <br />
+  
+  <center>
   
 [![Yannis stats](https://github-readme-stats.vercel.app/api?username=TeissierYannis&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+  </center>
 </details>
