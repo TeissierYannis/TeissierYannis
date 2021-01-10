@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  [![](https://github-readme-stats.vercel.app/api/wakatime?username=TeissierYannis&layout=false)]()
-  [![yannis wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TeissierYannis&langs_count=50&layout=compact)]()
+  [![](https://github-readme-stats.vercel.app/api/wakatime?username=TeissierYannis&layout=false)](https://teissieryannis.com)
+  [![yannis wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TeissierYannis&langs_count=8&layout=compact)](https://teissieryannis.com)
   
 </div>
