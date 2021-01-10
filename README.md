@@ -2,7 +2,8 @@
 
   [![Website](https://img.shields.io/website?label=teissieryannis.com&style=for-the-badge&logo=Tumblr&url=https%3A%2F%2Fteissieryannis.com)](https://teissieryannis.com)
 
-  [![> 7.x](https://img.shields.io/badge?label=PHP&style=for-the-badge&url=https://php.net)](https://php.net)
+
+  [![](https://img.shields.io/badge/%3E%207.4-PHP-blue?style=for-the-badge&logo=appveyor)](https://php.net)
 
 </div>
 <br />
