@@ -15,6 +15,7 @@
   [![Clean Archi - Salle de Sport](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=SDS-CLEAN&theme=algolia)](https://github.com/TeissierYannis/SDS-CLEAN)
   [![PXC](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=PXC_Scheduler&theme=algolia)](https://github.com/TeissierYannis/PXC_Scheduler)
   [![FCSC 2020](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=FCSC-2020&theme=algolia)](https://github.com/TeissierYannis/FCSC-2020)
+  [![Pokemon Win Prediction](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=Pokemon_Win_Prediction&theme=algolia)](https://github.com/TeissierYannis/Pokemon_Win_Prediction)
 
 </div>
 
