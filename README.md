@@ -3,7 +3,7 @@
   [![Website](https://img.shields.io/website?label=teissieryannis.com&style=for-the-badge&logo=Tumblr&url=https%3A%2F%2Fteissieryannis.com)](https://teissieryannis.com)
 
 
-  [![](https://img.shields.io/badge/%3E%207.4-PHP-blue?style=for-the-badge&logo=appveyor)](https://php.net)
+  [![](https://img.shields.io/badge/%3E%207.X-PHP-blue?style=for-the-badge&logo=appveyor)](https://php.net)
 
 </div>
 <br />
