@@ -4,6 +4,7 @@
 
 
   [![](https://img.shields.io/badge/%3E%207.X-PHP-blue?style=for-the-badge&logo=appveyor)](https://php.net)
+  [![](https://img.shields.io/badge/Rust-blue?style=for-the-badge&logo=appveyor)](https://www.rust-lang.org)
 
 </div>
 <br />
