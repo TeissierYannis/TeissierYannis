@@ -2,7 +2,8 @@
 
   [![Website](https://img.shields.io/website?label=teissieryannis.com&style=for-the-badge&logo=Tumblr&url=https%3A%2F%2Fteissieryannis.com)](https://teissieryannis.com)
 
-
+  
+  [![wakatime](https://wakatime.com/badge/user/3d2aace6-8294-4b49-9bfe-fbf41b0827f7.svg)](https://wakatime.com/@3d2aace6-8294-4b49-9bfe-fbf41b0827f7)
   [![](https://img.shields.io/badge/%3E%208.X-PHP-blue?style=for-the-badge&logo=appveyor)]()
   [![](https://img.shields.io/badge/Rust-blue?style=for-the-badge&logo=appveyor)]()
   [![](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=appveyor)]()
