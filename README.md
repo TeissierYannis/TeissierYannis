@@ -9,11 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teissieryannis" alt="teissieryannis" /></a> </p>
 
-- 🔭 I’m currently working on [Automated Market Research And Analysis](https://github.com/TeissierYannis/Automated-market-research-and-analysis)
+- 🔭 I’m currently working on [OneKonsole](https://github.com/OneKonsole)
 
-- 🌱 I’m currently learning **Machine Learning algorithms, TF, NLP, Data viz**
-
-- 👯 I’m collaborating on [Recommender System School Project](https://github.com/TeissierYannis/CPE-bigdata-TDM-project)
+- 🌱 I’m currently learning **Machine Learning algorithms & Architecture**
 
 - 🤝 I'am proud of [Pokegeo project - Pokemon Go-liked game](https://github.com/TeissierYannis/CPE-Pokegeo-Android)
 
