@@ -2,24 +2,24 @@
 [![wakatime](https://wakatime.com/badge/user/3d2aace6-8294-4b49-9bfe-fbf41b0827f7.svg)](https://wakatime.com/@3d2aace6-8294-4b49-9bfe-fbf41b0827f7)
 
 
-<h1 align="center">Hi 👋, I'm Yannis ,</h1>
+<h1 align="center">Hi 👋, I am Yannis ,</h1>
 <h3 align="center">a passionate software developer who loves to build innovative projects and solve complex problems. I have a knack for creating efficient and user-friendly solutions using the latest technologies. Here are some of my best projects, programming languages, and WakaTime statistics!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teissieryannis&label=Profile%20views&color=0e75b6&style=flat" alt="teissieryannis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teissieryannis" alt="teissieryannis" /></a> </p>
 
-- 🔭 I’m currently working on [OneKonsole](https://github.com/OneKonsole)
+- 🔭 I am currently working on [OneKonsole](https://github.com/OneKonsole)
 
-- 🌱 I’m currently learning **Machine Learning algorithms & Architecture**
+- 🌱 I am currently learning **Machine Learning algorithms & Architecture**
 
-- 🤝 I'am proud of [Pokegeo project - Pokemon Go-liked game](https://github.com/TeissierYannis/CPE-Pokegeo-Android)
+- 🤝 I am proud of [Pokegeo project - Pokemon Go-liked game](https://github.com/TeissierYannis/CPE-Pokegeo-Android)
 
-- 👨‍💻 All of my projects are available at [https://teissieryannis.com](https://teissieryannis.com)
+- 👨‍💻 All my projects are available at [https://teissieryannis.com](https://teissieryannis.com)
 
-- 📫 How to reach me **yannis.teissier70@gmail.com**
+- 📫 Reach me at **yannis.teissier70@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/yannis-teissier/](https://linkedin.com/in/yannis-teissier/)
+- 📄 Learn more about my experiences at [https://linkedin.com/in/yannis-teissier/](https://linkedin.com/in/yannis-teissier/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
