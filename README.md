@@ -9,12 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teissieryannis" alt="teissieryannis" /></a> </p>
 
-- 🔭 I am currently working on [OneKonsole](https://github.com/OneKonsole)
-
-- 🌱 I am currently learning **Machine Learning algorithms & Architecture**
-
-- 🤝 I am proud of [Pokegeo project - Pokemon Go-liked game](https://github.com/TeissierYannis/CPE-Pokegeo-Android)
-
 - 👨‍💻 All my projects are available at [https://teissieryannis.com](https://teissieryannis.com)
 
 - 📫 Reach me at **yannis.teissier70@gmail.com**
