@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,python,docker,kubernetes,linux,postgresql,mongodb&theme=light" />
 </p>
+
 ---
 
 ## 📊 Stats
@@ -35,7 +36,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teissieryannis&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teissieryannis&layout=compact&theme=tokyonight" alt="Top Languages" />
 </td>
 </tr>
 </table>
