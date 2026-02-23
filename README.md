@@ -9,7 +9,6 @@
 [![Website](https://img.shields.io/badge/teissieryannis.com-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://teissieryannis.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yannis-teissier/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:yannis.teissier70@gmail.com)
-[![WakaTime](https://img.shields.io/badge/WakaTime-0d1117?style=for-the-badge&logo=wakatime&logoColor=58a6ff)](https://wakatime.com/@3d2aace6-8294-4b49-9bfe-fbf41b0827f7)
 
 </div>
 
