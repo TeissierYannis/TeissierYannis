@@ -1,56 +1,99 @@
-[![Website](https://img.shields.io/website?label=teissieryannis.com&style=for-the-badge&logo=firefox&logoColor=white&url=https%3A%2F%2Fteissieryannis.com)](https://teissieryannis.com)
-[![WakaTime](https://wakatime.com/badge/user/3d2aace6-8294-4b49-9bfe-fbf41b0827f7.svg)](https://wakatime.com/@3d2aace6-8294-4b49-9bfe-fbf41b0827f7)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Yannis%20Teissier&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=fadeIn" />
 
-<h1 align="center">Hi there 👋, I'm Yannis</h1>
-<p align="center">
-  Passionate software developer who loves crafting <b>efficient</b> and <b>user-friendly</b> solutions 🚀
-</p>
+<div align="center">
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Developer;Always+shipping+something+new;From+idea+to+production" alt="Typing SVG" /></a>
 
-## 🌟 About Me
-| 💡 | Info |
-|----|-----|
-| 📂 | All my projects live at [**teissieryannis.com**](https://teissieryannis.com) |
-| ✉️ | Contact: **yannis.teissier70@gmail.com** |
-| 🔗 | [LinkedIn](https://linkedin.com/in/yannis-teissier/) |
+<br/>
 
----
+[![Website](https://img.shields.io/badge/teissieryannis.com-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://teissieryannis.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yannis-teissier/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:yannis.teissier70@gmail.com)
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,python,docker,kubernetes,linux,postgresql,mongodb&theme=light" />
-</p>
+</div>
 
----
+<br/>
 
-## 📊 Stats
-<table align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=teissieryannis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=teissieryannis&theme=tokyonight" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teissieryannis&layout=compact&theme=tokyonight" alt="Top Languages" />
-</td>
-</tr>
-</table>
+```yaml
+name: Yannis Teissier
+location: France
+portfolio: teissieryannis.com
+currently: Shipping side projects & exploring new tech
+interests: Full-stack dev, infrastructure, developer tooling
+```
 
----
+<br/>
 
-## ⏱️ Coding Time (last 7 days)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TeissierYannis&layout=compact&theme=tokyonight" alt="Wakatime stats"/>
-</p>
+<div align="center">
 
----
+## `> tech_stack.load()`
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teissieryannis&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="trophies"/>
-</p>
+</div>
+
+<div align="center">
+
+**Languages**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,go,python,rust&theme=dark" /></a>
+
+**Frontend**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></a>
+
+**Backend & Infra**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,postgres,mongodb,linux&theme=dark" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `> stats.display()`
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=teissieryannis&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=teissieryannis&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=teissieryannis&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d" />
+    <img height="170" src="https://streak-stats.demolab.com?user=teissieryannis&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=teissieryannis&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" />
+    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teissieryannis&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+## `> connect.init()`
+
+</div>
+
+<div align="center">
+
+💬 **Open to collaborations, side projects & interesting conversations.**
+
+Feel free to reach out — I'm always happy to chat about tech, open source, or new ideas.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=teissieryannis&style=for-the-badge&color=161b22&label=VISITORS&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
