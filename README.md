@@ -97,3 +97,9 @@ Feel free to reach out — I'm always happy to chat about tech, open source, or 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yannisteisw" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+  </a>
+</div>
